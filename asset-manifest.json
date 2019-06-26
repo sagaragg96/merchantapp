@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/merchantapp/static/css/main.23de14fa.chunk.css",
-    "main.js": "/merchantapp/static/js/main.4dc89621.chunk.js",
-    "main.js.map": "/merchantapp/static/js/main.4dc89621.chunk.js.map",
+    "main.js": "/merchantapp/static/js/main.6c09a629.chunk.js",
+    "main.js.map": "/merchantapp/static/js/main.6c09a629.chunk.js.map",
     "runtime~main.js": "/merchantapp/static/js/runtime~main.8741dd77.js",
     "runtime~main.js.map": "/merchantapp/static/js/runtime~main.8741dd77.js.map",
     "static/css/2.1fd47d8d.chunk.css": "/merchantapp/static/css/2.1fd47d8d.chunk.css",
-    "static/js/2.dd03a240.chunk.js": "/merchantapp/static/js/2.dd03a240.chunk.js",
-    "static/js/2.dd03a240.chunk.js.map": "/merchantapp/static/js/2.dd03a240.chunk.js.map",
+    "static/js/2.822ee86e.chunk.js": "/merchantapp/static/js/2.822ee86e.chunk.js",
+    "static/js/2.822ee86e.chunk.js.map": "/merchantapp/static/js/2.822ee86e.chunk.js.map",
     "index.html": "/merchantapp/index.html",
-    "precache-manifest.29992ad9574eca70737b66a7ff2910b1.js": "/merchantapp/precache-manifest.29992ad9574eca70737b66a7ff2910b1.js",
+    "precache-manifest.12edf16a174358b12e3d5a1d5dfe480d.js": "/merchantapp/precache-manifest.12edf16a174358b12e3d5a1d5dfe480d.js",
     "service-worker.js": "/merchantapp/service-worker.js",
     "static/css/2.1fd47d8d.chunk.css.map": "/merchantapp/static/css/2.1fd47d8d.chunk.css.map",
     "static/css/main.23de14fa.chunk.css.map": "/merchantapp/static/css/main.23de14fa.chunk.css.map"
