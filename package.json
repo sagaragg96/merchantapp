@@ -2,7 +2,7 @@
   "name": "ui-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sagaragg96.github.io/ui-page/",
+  "homepage": "https://sagaragg96.github.io/merchantapp/",
   "dependencies": {
     "@material-ui/core": "^4.0.0-rc.0",
     "ag-grid-community": "^21.0.1",

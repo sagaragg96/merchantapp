@@ -1,12 +1,12 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom'
+import { HashRouter, Switch, Route } from 'react-router-dom'
 import HomePage from './HomePage';
 import EditMerchant from './EditMerchant'
 import MerchantHistory from './MerchantHistory';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="App">
         <Switch>
           <Route exact path='/' component={HomePage} />
@@ -14,7 +14,7 @@ function App() {
           <Route path='/merchantHistory' component={MerchantHistory} />
         </Switch>
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
